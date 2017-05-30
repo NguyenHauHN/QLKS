@@ -1,0 +1,115 @@
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormLogin.resources
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.dll
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MainForm.resources
+c:\users\do quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Phong.resources
+C:\Users\Do Quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+C:\Users\Do Quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\Do Quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.GioiThieu.resources
+C:\Users\Do Quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.NhanPhong.resources
+C:\Users\Do Quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TimKiem.resources
+C:\Users\Do Quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+C:\Users\Do Quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaDV.resources
+C:\Users\Do Quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaPhong.resources
+C:\Users\Do Quang\documents\visual studio 2017\Projects\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.dll
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormLogin.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.GioiThieu.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MainForm.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.NhanPhong.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Phong.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaDV.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaPhong.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TimKiem.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\Study\ThucTapNhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormLogin.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.GioiThieu.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MainForm.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.NhanPhong.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Phong.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaDV.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaPhong.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TimKiem.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+C:\Users\nguye\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.dll
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormLogin.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.GioiThieu.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MainForm.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.NhanPhong.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Phong.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaDV.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaPhong.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TimKiem.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+E:\Thực tập nhóm\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DatPhong.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.DichVu.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FormLogin.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.GioiThieu.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.MainForm.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.NhanPhong.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Phong.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaDV.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.SuaPhong.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TimKiem.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.TraPhong.resources
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Downloads\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\EntityFramework.SqlServer.xml
