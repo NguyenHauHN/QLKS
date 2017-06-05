@@ -37,21 +37,14 @@
             this.LeftToolStripPanel = new System.Windows.Forms.ToolStripPanel();
             this.ContentPanel = new System.Windows.Forms.ToolStripContentPanel();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.groupBox5 = new System.Windows.Forms.GroupBox();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.button3 = new System.Windows.Forms.Button();
             this.btnNhanPhong = new System.Windows.Forms.Button();
             this.btnTraPhong = new System.Windows.Forms.Button();
             this.btnDatPhong = new System.Windows.Forms.Button();
-            this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.btnDichVu = new System.Windows.Forms.Button();
             this.btnPhong = new System.Windows.Forms.Button();
             this.groupBox2.SuspendLayout();
             this.groupBox1.SuspendLayout();
-            this.groupBox5.SuspendLayout();
-            this.groupBox4.SuspendLayout();
-            this.groupBox3.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox2
@@ -60,7 +53,7 @@
             this.groupBox2.Controls.Add(this.label1);
             this.groupBox2.Location = new System.Drawing.Point(218, 12);
             this.groupBox2.Name = "groupBox2";
-            this.groupBox2.Size = new System.Drawing.Size(793, 503);
+            this.groupBox2.Size = new System.Drawing.Size(1071, 668);
             this.groupBox2.TabIndex = 1;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Thông tin";
@@ -72,21 +65,22 @@
             this.tabControl1.Location = new System.Drawing.Point(6, 68);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(781, 429);
+            this.tabControl1.Size = new System.Drawing.Size(1059, 594);
             this.tabControl1.TabIndex = 1;
             this.tabControl1.DrawItem += new System.Windows.Forms.DrawItemEventHandler(this.tabControl1_DrawItem);
+            this.tabControl1.SelectedIndexChanged += new System.EventHandler(this.tabControl1_SelectedIndexChanged);
             this.tabControl1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.tabControl1_MouseClick);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Vni 13 Annabelle", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(192)))));
-            this.label1.Location = new System.Drawing.Point(140, 16);
+            this.label1.Location = new System.Drawing.Point(303, 16);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(297, 27);
+            this.label1.Size = new System.Drawing.Size(285, 24);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Chào mừng đến với khách sạn";
+            this.label1.Text = "Phần mềm quản lý khách sạn";
             // 
             // BottomToolStripPanel
             // 
@@ -126,66 +120,32 @@
             // 
             // groupBox1
             // 
-            this.groupBox1.Controls.Add(this.groupBox5);
-            this.groupBox1.Controls.Add(this.groupBox4);
-            this.groupBox1.Controls.Add(this.groupBox3);
+            this.groupBox1.Controls.Add(this.button3);
+            this.groupBox1.Controls.Add(this.btnTraPhong);
+            this.groupBox1.Controls.Add(this.btnDichVu);
+            this.groupBox1.Controls.Add(this.btnNhanPhong);
+            this.groupBox1.Controls.Add(this.btnPhong);
+            this.groupBox1.Controls.Add(this.btnDatPhong);
             this.groupBox1.Location = new System.Drawing.Point(12, 12);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(200, 503);
+            this.groupBox1.Size = new System.Drawing.Size(200, 668);
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Các chức năng";
             // 
-            // groupBox5
+            // button3
             // 
-            this.groupBox5.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.groupBox5.Controls.Add(this.button1);
-            this.groupBox5.Controls.Add(this.button2);
-            this.groupBox5.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox5.Location = new System.Drawing.Point(6, 383);
-            this.groupBox5.Name = "groupBox5";
-            this.groupBox5.Size = new System.Drawing.Size(188, 114);
-            this.groupBox5.TabIndex = 2;
-            this.groupBox5.TabStop = false;
-            this.groupBox5.Text = "Tiện ích";
-            // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(6, 68);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(176, 40);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Giới thiệu phần mềm";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(6, 33);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(176, 40);
-            this.button2.TabIndex = 0;
-            this.button2.Text = "Tìm kiếm";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // groupBox4
-            // 
-            this.groupBox4.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.groupBox4.Controls.Add(this.btnNhanPhong);
-            this.groupBox4.Controls.Add(this.btnTraPhong);
-            this.groupBox4.Controls.Add(this.btnDatPhong);
-            this.groupBox4.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox4.Location = new System.Drawing.Point(6, 166);
-            this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(188, 192);
-            this.groupBox4.TabIndex = 1;
-            this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "Giao dịch";
+            this.button3.Location = new System.Drawing.Point(12, 298);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(176, 40);
+            this.button3.TabIndex = 2;
+            this.button3.Text = "Quản lý Admin";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // btnNhanPhong
             // 
-            this.btnNhanPhong.Location = new System.Drawing.Point(6, 80);
+            this.btnNhanPhong.Location = new System.Drawing.Point(12, 206);
             this.btnNhanPhong.Name = "btnNhanPhong";
             this.btnNhanPhong.Size = new System.Drawing.Size(176, 40);
             this.btnNhanPhong.TabIndex = 4;
@@ -195,7 +155,7 @@
             // 
             // btnTraPhong
             // 
-            this.btnTraPhong.Location = new System.Drawing.Point(6, 117);
+            this.btnTraPhong.Location = new System.Drawing.Point(12, 252);
             this.btnTraPhong.Name = "btnTraPhong";
             this.btnTraPhong.Size = new System.Drawing.Size(176, 40);
             this.btnTraPhong.TabIndex = 3;
@@ -205,7 +165,7 @@
             // 
             // btnDatPhong
             // 
-            this.btnDatPhong.Location = new System.Drawing.Point(6, 43);
+            this.btnDatPhong.Location = new System.Drawing.Point(12, 160);
             this.btnDatPhong.Name = "btnDatPhong";
             this.btnDatPhong.Size = new System.Drawing.Size(176, 40);
             this.btnDatPhong.TabIndex = 2;
@@ -213,22 +173,9 @@
             this.btnDatPhong.UseVisualStyleBackColor = true;
             this.btnDatPhong.Click += new System.EventHandler(this.btnDatPhong_Click);
             // 
-            // groupBox3
-            // 
-            this.groupBox3.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.groupBox3.Controls.Add(this.btnDichVu);
-            this.groupBox3.Controls.Add(this.btnPhong);
-            this.groupBox3.Font = new System.Drawing.Font("Times New Roman", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.groupBox3.Location = new System.Drawing.Point(6, 35);
-            this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(188, 114);
-            this.groupBox3.TabIndex = 0;
-            this.groupBox3.TabStop = false;
-            this.groupBox3.Text = "Danh mục";
-            // 
             // btnDichVu
             // 
-            this.btnDichVu.Location = new System.Drawing.Point(6, 68);
+            this.btnDichVu.Location = new System.Drawing.Point(12, 114);
             this.btnDichVu.Name = "btnDichVu";
             this.btnDichVu.Size = new System.Drawing.Size(176, 40);
             this.btnDichVu.TabIndex = 1;
@@ -238,7 +185,7 @@
             // 
             // btnPhong
             // 
-            this.btnPhong.Location = new System.Drawing.Point(6, 33);
+            this.btnPhong.Location = new System.Drawing.Point(12, 68);
             this.btnPhong.Name = "btnPhong";
             this.btnPhong.Size = new System.Drawing.Size(176, 40);
             this.btnPhong.TabIndex = 0;
@@ -250,7 +197,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1023, 527);
+            this.ClientSize = new System.Drawing.Size(1301, 692);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "MainForm";
@@ -259,9 +206,6 @@
             this.groupBox2.ResumeLayout(false);
             this.groupBox2.PerformLayout();
             this.groupBox1.ResumeLayout(false);
-            this.groupBox5.ResumeLayout(false);
-            this.groupBox4.ResumeLayout(false);
-            this.groupBox3.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -275,16 +219,12 @@
         private System.Windows.Forms.ToolStripPanel LeftToolStripPanel;
         private System.Windows.Forms.ToolStripContentPanel ContentPanel;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.TabControl tabControl1;
-        private System.Windows.Forms.GroupBox groupBox5;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.Button btnNhanPhong;
         private System.Windows.Forms.Button btnTraPhong;
         private System.Windows.Forms.Button btnDatPhong;
         private System.Windows.Forms.Button btnDichVu;
         private System.Windows.Forms.Button btnPhong;
+        private System.Windows.Forms.Button button3;
     }
 }
