@@ -83,3 +83,6 @@ E:\Thực tập nhóm\Project QLKS\New folder\QuanLyKhachSan\QuanLyKhachSan\obj\
 E:\Thực tập nhóm\Project QLKS\HauNguyen\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
 E:\Thực tập nhóm\Project QLKS\HauNguyen\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
 E:\Thực tập nhóm\Project QLKS\HauNguyen\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+E:\Thực tập nhóm\Project QLKS\QLKS_Master\QLKS\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+E:\Thực tập nhóm\Project QLKS\QLKS_Master\QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+E:\Thực tập nhóm\Project QLKS\QLKS_Master\QLKS\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
